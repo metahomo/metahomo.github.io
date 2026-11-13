@@ -48,9 +48,9 @@ export const profile: Profile = {
   // TODO: 실제 프로젝트로 교체하기
   projects: [
     {
-      name: 'my-profile',
+      name: 'Therapy',
       description: 'React와 TypeScript를 변형/생성하여 행복한 삶을 살도록 돕는 사이트입니다.',
-      tech: ['React', 'TypeScript', 'Vite'],
+      tech: ['NPA', 'NTA', 'NLP', 'NFT', 'Nenneagram'],
       url: 'https://github.com/nlpwhiz/my-profile', // TODO: 저장소 주소 확인
     },
     {
