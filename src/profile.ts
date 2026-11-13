@@ -51,7 +51,7 @@ export const profile: Profile = {
       name: 'Therapy',
       description: 'React와 TypeScript를 변형/생성하여 행복한 삶을 살도록 돕는 사이트입니다.',
       tech: ['NPA', 'NTA', 'NLP', 'NFT', 'Nenneagram'],
-      url: 'https://github.com/metahomo/my-profile', // TODO: 저장소 주소 확인
+      url: 'https://github.com/metahomo/metahomo.github.io',
     },
     {
       name: '주관적 경험의 구조 변형',
