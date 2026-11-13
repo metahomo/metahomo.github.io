@@ -42,7 +42,7 @@ export const profile: Profile = {
   skills: [
     { category: 'Tool', items: ['R/Rstudio', 'SPSS', 'AMOS', 'NVivo'] },
     { category: 'Py_tool', items: ['NPA', 'NTA', 'NLP', 'NFT', 'Nenneagram'] },
-    { category: 'Git_Home', items: ['Git', 'GitHub'] },
+    { category: 'Degree', items: ['Ph.D in Counseling Psy.', 'Ph.D in Psy.'] },
   ],
 
   // TODO: 실제 프로젝트로 교체하기
@@ -51,7 +51,7 @@ export const profile: Profile = {
       name: 'Therapy',
       description: 'React와 TypeScript를 변형/생성하여 행복한 삶을 살도록 돕는 사이트입니다.',
       tech: ['NPA', 'NTA', 'NLP', 'NFT', 'Nenneagram'],
-      url: 'https://github.com/nlpwhiz/my-profile', // TODO: 저장소 주소 확인
+      url: 'https://github.com/metahomo/my-profile', // TODO: 저장소 주소 확인
     },
     {
       name: '주관적 경험의 구조 변형',
